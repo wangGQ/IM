@@ -1,0 +1,24 @@
+QPushButton {
+	font-family: "微软雅黑";
+	font-size:10pt;
+}
+
+QTableView {
+	font-family: "微软雅黑";
+	font-size:10pt;
+}
+
+QLineEdit {
+	font-family: "微软雅黑";
+	font-size:10pt;
+}
+
+QComboBox {
+	font-family: "微软雅黑";
+	font-size:10pt;
+}
+
+QCheckBox {
+	font-family: "微软雅黑";
+	font-size:10pt;
+}
